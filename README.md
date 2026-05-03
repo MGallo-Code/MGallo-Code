@@ -1,10 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20&height=120&section=header" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4332,100:52B788&height=240&section=header&text=Hello&fontSize=90&fontColor=ffffff&fontAlignY=40" alt="Hello" />
 </div>
 
-# Hello
-
-_Software developer in northern Virginia, currently open to work._
+<p align="center"><font size="4"><em>Software developer in northern Virginia, currently open to work.</em></font></p>
 
 I'm Michael! At the age of 10 a close friend lent me his copy of [_Head First HTML and CSS_](https://www.betterworldbooks.com/product/detail/head-first-html-and-css-a-learners-guide-to-creating-standards-based-web-pages-9780596159900). I never gave it back, in spirit. Every spare hour after that went to StackOverflow threads, coding blogs, library books, online courses, anything I could get my hands on. The computer science teachers feared my questions in the classroom...😅
 
