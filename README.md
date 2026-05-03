@@ -2,6 +2,10 @@
 
 _Software developer in northern Virginia, currently open to work._
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,go,rust,py,postgres,nextjs" alt="stack" />
+</div>
+
 I'm Michael! At the age of 10 a close friend lent me his copy of [_Head First HTML and CSS_](https://www.betterworldbooks.com/product/detail/head-first-html-and-css-a-learners-guide-to-creating-standards-based-web-pages-9780596159900). I never gave it back, in spirit. Every spare hour after that went to StackOverflow threads, coding blogs, library books, online courses, anything I could get my hands on. The computer science teachers feared my questions in the classroom...😅
 
 Fifteen-ish years later the projects pile is still growing. A flashcard site in SQL, TypeScript, and Python with procedurally-generated audio through AWS Polly. A password manager in Rust (encryption written from scratch because I wanted to actually understand it), and an auth system in Go.
@@ -24,10 +28,20 @@ After my M.S. Computer Science at UVM (2025) and B.S. with a math minor, I lande
 
 ## Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MGallo-Code&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MGallo-Code&layout=compact&theme=transparent&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=MGallo-Code&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MGallo-Code&layout=compact&theme=tokyonight&hide_border=true)
 
 ## Connect
 
 - 📧 <michaelgallo.va@gmail.com>
 - 🌐 [michaelgit.com](https://michaelgit.com)
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MGallo-Code/MGallo-Code/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MGallo-Code/MGallo-Code/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/MGallo-Code/MGallo-Code/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
