@@ -17,7 +17,7 @@ After my M.S. Computer Science at UVM (2025) and B.S. with a math minor, I lande
 A few of the things I reach for, give or take.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,go,rust,py,nextjs,react,postgres,supabase,aws,docker,neovim,linux&perline=6" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=ts,go,rust,py,nextjs,react,postgres,supabase,aws,docker,neovim,linux&perline=12" alt="stack" />
 </div>
 
 ## Now
