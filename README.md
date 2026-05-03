@@ -35,19 +35,6 @@ A few of the things I reach for, give or take.
 - **[Keybolt](https://github.com/MGallo-Code/keybolt)**, a password manager in Rust. Built the encryption from scratch to actually learn it.
 - **[EarTrainer](https://github.com/MGallo-Code/eartrainer)**, pitch training in Python. Eventual Kickstarter idea perhaps?
 
-## Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=MGallo-Code&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MGallo-Code&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-    </td>
-  </tr>
-</table>
-
 ## Connect
 
 - 📧 <michaelgallo.va@gmail.com>
