@@ -1,24 +1,26 @@
-# Hi, I'm Michael 👋
+# Hello
 
-I was 11 when a friend lent me his copy of [*Head First HTML and CSS*](https://www.betterworldbooks.com/product/detail/head-first-html-and-css-a-learners-guide-to-creating-standards-based-web-pages-9780596159900). I never gave it back, in spirit. Every spare hour after that went to StackOverflow threads, coding blogs, library books, online courses, anything I could get my hands on.
+_Software developer in northern Virginia, currently open to work._
 
-Fifteen-ish years later the projects pile is still growing. A flashcard site in SQL, TypeScript, and Python with procedurally-generated audio through AWS Polly. A password manager in Rust, encryption written from scratch because I wanted to actually understand it. An auth system in Go.
+Nice to meet you 🤝 I'm Michael! At the age of 10 a close friend lent me his copy of [_Head First HTML and CSS_](https://www.betterworldbooks.com/product/detail/head-first-html-and-css-a-learners-guide-to-creating-standards-based-web-pages-9780596159900). I never gave it back, in spirit. Every spare hour after that went to StackOverflow threads, coding blogs, library books, online courses, anything I could get my hands on. The computer science teachers feared my questions in the classroom...😅
 
-M.S. Computer Science from UVM (2025), B.S. CS with a math minor, based in northern Virginia. ACTE was a great place to land out of grad school, and I'm grateful for the time there. **I'm open to work** now, and always up to talk shop about any of the projects below.
+Fifteen-ish years later the projects pile is still growing. A flashcard site in SQL, TypeScript, and Python with procedurally-generated audio through AWS Polly. A password manager in Rust (encryption written from scratch because I wanted to actually understand it), and an auth system in Go.
+
+After my M.S. Computer Science at UVM (2025) and B.S. with a math minor, I landed at ACTE for a stretch I'm grateful for. If anything below catches your eye (or even if you're just bored), my inbox is open!
 
 ## Now
 
-- Polishing **Arete** for public launch, a resume tailoring tool in TypeScript / Next.js
-- Working through boot.dev's HTTP Servers course
-- Juggling 5 active freelance clients via michaelgit.com
+- Preparing **Arete** for public launch (a resume tailoring tool in TypeScript / Next.js)
+- Working through boot.dev's backend course (always nice to revisit the fundamentals!)
+- Doing freelance dev and IT work through michaelgit.com
 
 ## Featured projects
 
-- **[Charon](https://github.com/MGallo-Code/charon)**, an auth microservice in Go. Token issuance, rotation, refresh, the full flow, with 123+ tests. The piece I point hiring managers at.
+- **[Charon](https://github.com/MGallo-Code/charon)**, an auth microservice in Go. Token issuance, rotation, refresh, the full flow, with 123+ tests (if you're hiring, please start here)!
 - **[Arete](https://github.com/MGallo-Code/arete)**, TypeScript / Next.js. Diffs your resume against a job description and rewrites the gaps.
-- **[aggie](https://github.com/MGallo-Code/aggie)**, an RSS aggregator I run from my own terminal. TypeScript, Postgres, Drizzle. Demo GIF in the repo!
+- **[aggie](https://github.com/MGallo-Code/aggie)**, an RSS aggregator I run from my terminal. TypeScript, Postgres, Drizzle. Demo GIF in the repo!
 - **[Keybolt](https://github.com/MGallo-Code/keybolt)**, a password manager in Rust. Built the encryption from scratch to actually learn it.
-- **[EarTrainer](https://github.com/MGallo-Code/eartrainer)**, pitch training in Python. Eventual Kickstarter idea.
+- **[EarTrainer](https://github.com/MGallo-Code/eartrainer)**, pitch training in Python. Eventual Kickstarter idea perhaps?
 
 ## Stats
 
@@ -27,5 +29,5 @@ M.S. Computer Science from UVM (2025), B.S. CS with a math minor, based in north
 
 ## Connect
 
-- 📧 mgallo2043@gmail.com
+- 📧 <michaelgallo.va@gmail.com>
 - 🌐 [michaelgit.com](https://michaelgit.com)
