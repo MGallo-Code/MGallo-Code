@@ -3,8 +3,11 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software_developer-Northern_Virginia-1B4332?style=for-the-badge" alt="Software developer · Northern Virginia" />
-  <img src="https://img.shields.io/badge/Open_to_work-52B788?style=for-the-badge" alt="Open to work" />
+  <img src="https://img.shields.io/badge/Software_developer-1B4332?style=for-the-badge" alt="Software developer" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open_to_work!-52B788?style=for-the-badge" alt="Open to work!" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Northern_Virginia-1B4332?style=for-the-badge" alt="Northern Virginia" />
 </p>
 
 I'm Michael! At the age of 10 a close friend lent me his copy of [_Head First HTML and CSS_](https://www.betterworldbooks.com/product/detail/head-first-html-and-css-a-learners-guide-to-creating-standards-based-web-pages-9780596159900). I never gave it back, in spirit. Every spare hour after that went to StackOverflow threads, coding blogs, library books, online courses, anything I could get my hands on. The computer science teachers feared my questions in the classroom...😅
