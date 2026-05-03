@@ -24,12 +24,6 @@ A few of the things I reach for, give or take.
   <img src="https://skillicons.dev/icons?i=ts,go,rust,py,nextjs,react,postgres,supabase,aws,docker,neovim,linux&perline=12" alt="stack" />
 </div>
 
-## Now
-
-- Preparing **Arete** for public launch (a resume tailoring tool in TypeScript / Next.js)
-- Working through boot.dev's backend course (always nice to revisit the fundamentals!)
-- Doing freelance dev and IT work through michaelgit.com
-
 ## Featured projects
 
 - **[Charon](https://github.com/MGallo-Code/charon)**, an auth microservice in Go. Token issuance, rotation, refresh, the full flow, with 123+ tests (if you're hiring, please start here)!
@@ -40,8 +34,17 @@ A few of the things I reach for, give or take.
 
 ## Connect
 
-- 📧 <michaelgallo.va@gmail.com>
-- 🌐 [michaelgit.com](https://michaelgit.com)
+<p align="center">
+  <a href="mailto:michaelgallo.va@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/michael-a-gallo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://calendly.com/michaelgallo/30min"><img src="https://img.shields.io/badge/Book_a_chat-006BFF?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Calendly" /></a>
+  &nbsp;
+  <a href="https://github.com/MGallo-Code/MGallo-Code/raw/main/resume.pdf"><img src="https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
+  &nbsp;
+  <a href="https://michaelgit.com"><img src="https://img.shields.io/badge/michaelgit.com-1B4332?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+</p>
 
 ---
 
