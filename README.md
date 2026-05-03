@@ -2,7 +2,7 @@
 
 _Software developer in northern Virginia, currently open to work._
 
-Nice to meet you 🤝 I'm Michael! At the age of 10 a close friend lent me his copy of [_Head First HTML and CSS_](https://www.betterworldbooks.com/product/detail/head-first-html-and-css-a-learners-guide-to-creating-standards-based-web-pages-9780596159900). I never gave it back, in spirit. Every spare hour after that went to StackOverflow threads, coding blogs, library books, online courses, anything I could get my hands on. The computer science teachers feared my questions in the classroom...😅
+I'm Michael! At the age of 10 a close friend lent me his copy of [_Head First HTML and CSS_](https://www.betterworldbooks.com/product/detail/head-first-html-and-css-a-learners-guide-to-creating-standards-based-web-pages-9780596159900). I never gave it back, in spirit. Every spare hour after that went to StackOverflow threads, coding blogs, library books, online courses, anything I could get my hands on. The computer science teachers feared my questions in the classroom...😅
 
 Fifteen-ish years later the projects pile is still growing. A flashcard site in SQL, TypeScript, and Python with procedurally-generated audio through AWS Polly. A password manager in Rust (encryption written from scratch because I wanted to actually understand it), and an auth system in Go.
 
