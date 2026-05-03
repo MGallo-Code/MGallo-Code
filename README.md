@@ -10,7 +10,7 @@ Fifteen-ish years later the projects pile is still growing. A flashcard site in 
 
 After my M.S. Computer Science at UVM (2025) and B.S. with a math minor, I landed at ACTE for a stretch I'm grateful for. If anything below catches your eye (or even if you're just bored), my inbox is open!
 
-## Stack
+## My (Full) Stack
 
 A few of the things I reach for, give or take.
 
